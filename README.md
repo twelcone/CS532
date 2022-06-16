@@ -75,7 +75,7 @@
 
 <div align='center'>
 
-<img width="368" alt="Screen Shot 2022-05-31 at 17 25 37" src="https://user-images.githubusercontent.com/67086934/171152887-56f6db3e-9000-4672-9a95-2cdea50d5d82.png"> </div>
+<img width="450" alt="Screen Shot 2022-05-31 at 17 25 37" src="https://user-images.githubusercontent.com/76537832/174024555-cf336354-7141-42be-82fa-8c8454ef3064.png"> </div>
 
 - Our application takes an image containing the object to-be-classified as the input and returns the class of object after being classified with its probability.
 
